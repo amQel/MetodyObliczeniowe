@@ -1,0 +1,1 @@
+Projejekt pierwszy z metod obliczeniowych
